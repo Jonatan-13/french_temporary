@@ -10,7 +10,7 @@ Página estática con una cuadrícula de palabras. Imagen arriba, palabra abajo.
 
 ## Abrirla
 
-Doble clic en `practice.html`. No necesita servidor.
+Doble clic en `index.html`. No necesita servidor.
 
 ## Añadir o cambiar contenido
 
@@ -38,7 +38,7 @@ ejecución que lo necesite. Si no hay nada que generar, no pide nada. Con enter
 vacío se omite la generación y solo se actualiza `data.js`. (Si prefieres no
 teclearla, puedes definir `GOOGLE_TTS_API_KEY` y se usa sin preguntar.)
 
-Recarga `practice.html`.
+Recarga `index.html`.
 
 Campo opcional `mark`: texto grande del degradado cuando no hay imagen (por ejemplo
 `"mark": "7"`); por defecto es la inicial de la palabra.
@@ -68,6 +68,6 @@ En `words.json > settings`: `voice` (por defecto `fr-FR-Neural2-F`) y
 
 ## Archivos
 
-`practice.html/css/js` (página), `words.json` (tu contenido), `sync.mjs` (script),
+`index.html`, `practice.css` y `practice.js` (página), `words.json` (tu contenido), `sync.mjs` (script),
 `data.js` (generado, no editar), `audio/` (generado), `images/` (tuyas).
 `generate.mjs`, `samples.json` y `out/` son de la prueba de voces anterior y no se tocan.

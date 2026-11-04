@@ -1,0 +1,17 @@
+[
+  { "id": "w01", "kind": "palabra", "text": "l'eau" },
+  { "id": "w02", "kind": "palabra", "text": "un oiseau" },
+  { "id": "w03", "kind": "palabra", "text": "des chevaux" },
+  { "id": "w04", "kind": "palabra", "text": "les lunettes de soleil" },
+  { "id": "w05", "kind": "palabra", "text": "vingt" },
+  { "id": "w06", "kind": "palabra", "text": "huit" },
+  { "id": "w07", "kind": "palabra", "text": "je vais" },
+  { "id": "w08", "kind": "palabra", "text": "les amis" },
+  { "id": "w09", "kind": "palabra", "text": "la fenêtre" },
+  { "id": "w10", "kind": "palabra", "text": "un croissant" },
+  { "id": "p01", "kind": "frase", "text": "Le chat dort sur le canapé." },
+  { "id": "p02", "kind": "frase", "text": "Je vais au marché avec mes amis." },
+  { "id": "p03", "kind": "frase", "text": "Il fait beau aujourd'hui, mets tes lunettes de soleil." },
+  { "id": "p04", "kind": "frase", "text": "Elle a mangé un croissant ce matin." },
+  { "id": "p05", "kind": "frase", "text": "Nous allons prendre le train à huit heures vingt." }
+]

@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pratique — vocabulaire</title>
+<script>try{const t=localStorage.getItem('theme');if(t)document.documentElement.dataset.theme=t}catch{}</script>
+<link rel="stylesheet" href="practice.css">
+</head>
+<body>
+<header class="top">
+  <div>
+    <h1>Pratique</h1>
+    <p>Clique sur un mot pour l'écouter, sur l'image pour voir des phrases.</p>
+  </div>
+  <button class="theme" type="button" id="theme" aria-label="Cambiar entre modo claro y oscuro" title="Modo claro / oscuro">
+    <svg class="moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 14.2A8.5 8.5 0 0 1 9.8 3.5a8.5 8.5 0 1 0 10.7 10.7Z"/></svg>
+    <svg class="sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.2"/><path d="M12 2.5v2.2M12 19.3v2.2M2.5 12h2.2M19.3 12h2.2M5.3 5.3l1.6 1.6M17.1 17.1l1.6 1.6M18.7 5.3l-1.6 1.6M6.9 17.1l-1.6 1.6"/></svg>
+  </button>
+</header>
+
+<main>
+  <ul id="grid" class="grid"></ul>
+</main>
+
+<dialog id="dialog" aria-labelledby="dlg-head">
+  <button class="close" type="button" aria-label="Fermer" id="dlg-close">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>
+  </button>
+  <div class="dlg-media" id="dlg-media"></div>
+  <div class="dlg-body">
+    <div class="dlg-head"><div id="dlg-head"></div><span id="dlg-eye-slot"></span></div>
+    <p class="translation" id="dlg-translation"></p>
+    <ul class="phrases" id="dlg-phrases"></ul>
+  </div>
+</dialog>
+
+<script src="data.js"></script>
+<script src="practice.js"></script>
+</body>
+</html>

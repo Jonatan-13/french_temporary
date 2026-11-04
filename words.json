@@ -1,0 +1,371 @@
+{
+  "settings": {
+    "voice": "fr-FR-Neural2-F",
+    "speakingRate": 0.75
+  },
+  "words": [
+    {
+      "id": "chat",
+      "word": "le chat",
+      "translation": "el gato",
+      "gender": "m",
+      "phrases": [
+        {
+          "text": "Le chat dort sur le canapé.",
+          "translation": "El gato duerme en el sofá."
+        },
+        {
+          "text": "J'ai un petit chat noir.",
+          "translation": "Tengo un gatito negro."
+        }
+      ]
+    },
+    {
+      "id": "maison",
+      "word": "la maison",
+      "translation": "la casa",
+      "gender": "f",
+      "phrases": [
+        {
+          "text": "Ma maison est près de la gare.",
+          "translation": "Mi casa está cerca de la estación."
+        },
+        {
+          "text": "Nous rentrons à la maison.",
+          "translation": "Volvemos a casa."
+        },
+        {
+          "text": "Les maisons.",
+          "translation": "Las casas."
+        },
+        {
+          "text": "Une maison.",
+          "translation": "Una casa."
+        },
+        {
+          "text": "Des maisons.",
+          "translation": "Unas casas."
+        }
+      ]
+    },
+    {
+      "id": "orange",
+      "word": "l'orange",
+      "translation": "la naranja",
+      "gender": "f",
+      "phrases": [
+        {
+          "text": "Je bois un jus d'orange.",
+          "translation": "Bebo un jugo de naranja."
+        },
+        {
+          "text": "Cette orange est très sucrée.",
+          "translation": "Esta naranja es muy dulce."
+        },
+        {
+          "text": "Les oranges.",
+          "translation": "Las naranjas."
+        },
+        {
+          "text": "Une orange.",
+          "translation": "Una naranja."
+        },
+        {
+          "text": "Des oranges.",
+          "translation": "Unas naranjas."
+        }
+      ]
+    },
+    {
+      "id": "livre",
+      "word": "le livre",
+      "translation": "el libro",
+      "gender": "m",
+      "phrases": [
+        {
+          "text": "Je lis un livre intéressant.",
+          "translation": "Leo un libro interesante."
+        },
+        {
+          "text": "Le livre est sur la table.",
+          "translation": "El libro está sobre la mesa."
+        },
+        {
+          "text": "Les livres.",
+          "translation": "Los libros."
+        },
+        {
+          "text": "Un livre.",
+          "translation": "Un libro."
+        },
+        {
+          "text": "Des livres.",
+          "translation": "Unos libros."
+        }
+      ]
+    },
+    {
+      "id": "stylo",
+      "word": "le stylo",
+      "translation": "el bolígrafo",
+      "gender": "m",
+      "phrases": [
+        {
+          "text": "As-tu un stylo, s'il te plaît ?",
+          "translation": "¿Tienes un bolígrafo, por favor?"
+        },
+        {
+          "text": "Mon stylo est bleu.",
+          "translation": "Mi bolígrafo es azul."
+        },
+        {
+          "text": "Les stylos.",
+          "translation": "Los bolígrafos."
+        },
+        {
+          "text": "Un stylo.",
+          "translation": "Un bolígrafo."
+        },
+        {
+          "text": "Des stylos.",
+          "translation": "Unos bolígrafos."
+        }
+      ]
+    },
+    {
+      "id": "nombre-1",
+      "word": "un",
+      "translation": "uno (1)",
+      "mark": "1",
+      "phrases": [
+        {
+          "text": "J'ai un frère.",
+          "translation": "Tengo un hermano."
+        },
+        {
+          "text": "Il y a un chat dans le jardin.",
+          "translation": "Hay un gato en el jardín."
+        }
+      ]
+    },
+    {
+      "id": "nombre-2",
+      "word": "deux",
+      "translation": "dos (2)",
+      "mark": "2",
+      "phrases": [
+        {
+          "text": "J'ai deux sœurs.",
+          "translation": "Tengo dos hermanas."
+        },
+        {
+          "text": "Il est deux heures.",
+          "translation": "Son las dos."
+        }
+      ]
+    },
+    {
+      "id": "nombre-3",
+      "word": "trois",
+      "translation": "tres (3)",
+      "mark": "3",
+      "phrases": [
+        {
+          "text": "Nous sommes trois.",
+          "translation": "Somos tres."
+        },
+        {
+          "text": "Il y a trois pommes sur la table.",
+          "translation": "Hay tres manzanas sobre la mesa."
+        }
+      ]
+    },
+    {
+      "id": "nombre-4",
+      "word": "quatre",
+      "translation": "cuatro (4)",
+      "mark": "4",
+      "phrases": [
+        {
+          "text": "La voiture a quatre roues.",
+          "translation": "El coche tiene cuatro ruedas."
+        },
+        {
+          "text": "Je viens à quatre heures.",
+          "translation": "Vengo a las cuatro."
+        }
+      ]
+    },
+    {
+      "id": "nombre-5",
+      "word": "cinq",
+      "translation": "cinco (5)",
+      "mark": "5",
+      "phrases": [
+        {
+          "text": "Il y a cinq élèves dans la classe.",
+          "translation": "Hay cinco alumnos en la clase."
+        },
+        {
+          "text": "J'ai cinq euros.",
+          "translation": "Tengo cinco euros."
+        }
+      ]
+    },
+    {
+      "id": "nombre-6",
+      "word": "six",
+      "translation": "seis (6)",
+      "mark": "6",
+      "phrases": [
+        {
+          "text": "Il est six heures du matin.",
+          "translation": "Son las seis de la mañana."
+        },
+        {
+          "text": "Elle a six ans.",
+          "translation": "Ella tiene seis años."
+        }
+      ]
+    },
+    {
+      "id": "nombre-7",
+      "word": "sept",
+      "translation": "siete (7)",
+      "mark": "7",
+      "phrases": [
+        {
+          "text": "La semaine a sept jours.",
+          "translation": "La semana tiene siete días."
+        },
+        {
+          "text": "Je me lève à sept heures.",
+          "translation": "Me levanto a las siete."
+        }
+      ]
+    },
+    {
+      "id": "nombre-8",
+      "word": "huit",
+      "translation": "ocho (8)",
+      "mark": "8",
+      "phrases": [
+        {
+          "text": "Nous partons à huit heures.",
+          "translation": "Salimos a las ocho."
+        },
+        {
+          "text": "Mon fils a huit ans.",
+          "translation": "Mi hijo tiene ocho años."
+        }
+      ]
+    },
+    {
+      "id": "nombre-9",
+      "word": "neuf",
+      "translation": "nueve (9)",
+      "mark": "9",
+      "phrases": [
+        {
+          "text": "Il a neuf ans.",
+          "translation": "Él tiene nueve años."
+        },
+        {
+          "text": "Le magasin ouvre à neuf heures.",
+          "translation": "La tienda abre a las nueve."
+        }
+      ]
+    },
+    {
+      "id": "nombre-10",
+      "word": "dix",
+      "translation": "diez (10)",
+      "mark": "10",
+      "phrases": [
+        {
+          "text": "J'ai dix doigts.",
+          "translation": "Tengo diez dedos."
+        },
+        {
+          "text": "Il y a dix personnes à la fête.",
+          "translation": "Hay diez personas en la fiesta."
+        }
+      ]
+    },
+    {
+      "id": "merci",
+      "word": "merci",
+      "translation": "gracias",
+      "phrases": [
+        {
+          "text": "Merci beaucoup pour ton aide.",
+          "translation": "Muchas gracias por tu ayuda."
+        },
+        {
+          "text": "Merci, c'est très gentil.",
+          "translation": "Gracias, es muy amable."
+        }
+      ]
+    },
+    {
+      "id": "sil-vous-plait",
+      "word": "s'il vous plaît",
+      "translation": "por favor",
+      "phrases": [
+        {
+          "text": "Un café, s'il vous plaît.",
+          "translation": "Un café, por favor."
+        },
+        {
+          "text": "Pouvez-vous m'aider, s'il vous plaît ?",
+          "translation": "¿Puede ayudarme, por favor?"
+        }
+      ]
+    },
+    {
+      "id": "de-rien",
+      "word": "de rien",
+      "translation": "de nada",
+      "phrases": [
+        {
+          "text": "Merci pour le livre ! — De rien.",
+          "translation": "¡Gracias por el libro! — De nada."
+        },
+        {
+          "text": "De rien, c'est un plaisir.",
+          "translation": "De nada, es un placer."
+        }
+      ]
+    },
+    {
+      "id": "bonjour",
+      "word": "bonjour",
+      "translation": "hola / buenos días",
+      "phrases": [
+        {
+          "text": "Bonjour, comment allez-vous ?",
+          "translation": "Buenos días, ¿cómo está usted?"
+        },
+        {
+          "text": "Bonjour madame, je voudrais du pain.",
+          "translation": "Buenas, señora, quisiera pan."
+        }
+      ]
+    },
+    {
+      "id": "avec-plaisir",
+      "word": "avec plaisir",
+      "translation": "con gusto",
+      "phrases": [
+        {
+          "text": "Tu peux m'aider ? — Avec plaisir !",
+          "translation": "¿Puedes ayudarme? — ¡Con gusto!"
+        },
+        {
+          "text": "Je viendrai avec plaisir à ta fête.",
+          "translation": "Iré con gusto a tu fiesta."
+        }
+      ]
+    }
+  ]
+}

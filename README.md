@@ -68,6 +68,6 @@ En `words.json > settings`: `voice` (por defecto `fr-FR-Neural2-F`) y
 
 ## Archivos
 
-`index.html`, `practice.css` y `practice.js` (página), `words.json` (tu contenido), `sync.mjs` (script),
+`index.html`, `styles.css` y `main.js` (página), `words.json` (tu contenido), `sync.mjs` (script),
 `data.js` (generado, no editar), `audio/` (generado), `images/` (tuyas).
 `generate.mjs`, `samples.json` y `out/` son de la prueba de voces anterior y no se tocan.

@@ -366,6 +366,315 @@
           "translation": "Iré con gusto a tu fiesta."
         }
       ]
+    },
+    {
+      "id": "table",
+      "word": "la table",
+      "translation": "la mesa",
+      "gender": "f",
+      "phrases": [
+        {
+          "text": "Nous mangeons à table.",
+          "translation": "Comemos en la mesa."
+        },
+        {
+          "text": "La table est en bois.",
+          "translation": "La mesa es de madera."
+        },
+        {
+          "text": "Il y a un vase sur la table.",
+          "translation": "Hay un jarrón sobre la mesa."
+        }
+      ]
+    },
+    {
+      "id": "chaise",
+      "word": "la chaise",
+      "translation": "la silla",
+      "gender": "f",
+      "phrases": [
+        {
+          "text": "Assieds-toi sur cette chaise.",
+          "translation": "Siéntate en esta silla."
+        },
+        {
+          "text": "Il y a quatre chaises autour de la table.",
+          "translation": "Hay cuatro sillas alrededor de la mesa."
+        },
+        {
+          "text": "Cette chaise est très confortable.",
+          "translation": "Esta silla es muy cómoda."
+        }
+      ]
+    },
+    {
+      "id": "bouteille",
+      "word": "la bouteille",
+      "translation": "la botella",
+      "gender": "f",
+      "phrases": [
+        {
+          "text": "Je bois de l'eau dans une bouteille.",
+          "translation": "Bebo agua de una botella."
+        },
+        {
+          "text": "La bouteille est vide.",
+          "translation": "La botella está vacía."
+        },
+        {
+          "text": "Une bouteille de vin, s'il vous plaît.",
+          "translation": "Una botella de vino, por favor."
+        }
+      ]
+    },
+    {
+      "id": "lumiere",
+      "word": "la lumière",
+      "translation": "la luz",
+      "gender": "f",
+      "phrases": [
+        {
+          "text": "Allume la lumière, s'il te plaît.",
+          "translation": "Enciende la luz, por favor."
+        },
+        {
+          "text": "Il n'y a pas de lumière dans la chambre.",
+          "translation": "No hay luz en la habitación."
+        },
+        {
+          "text": "La lumière du soleil entre par la fenêtre.",
+          "translation": "La luz del sol entra por la ventana."
+        }
+      ]
+    },
+    {
+      "id": "lunettes",
+      "word": "les lunettes",
+      "translation": "las gafas",
+      "gender": "f",
+      "phrases": [
+        {
+          "text": "Je ne trouve pas mes lunettes.",
+          "translation": "No encuentro mis gafas."
+        },
+        {
+          "text": "Il porte des lunettes rondes.",
+          "translation": "Lleva gafas redondas."
+        },
+        {
+          "text": "Elle achète des lunettes de soleil.",
+          "translation": "Ella compra gafas de sol."
+        }
+      ]
+    },
+    {
+      "id": "couleur-rouge",
+      "word": "rouge",
+      "translation": "rojo",
+      "phrases": [
+        {
+          "text": "La pomme est rouge.",
+          "translation": "La manzana es roja."
+        },
+        {
+          "text": "J'aime la voiture rouge.",
+          "translation": "Me gusta el coche rojo."
+        },
+        {
+          "text": "Il porte un pull rouge.",
+          "translation": "Lleva un suéter rojo."
+        }
+      ]
+    },
+    {
+      "id": "couleur-blanc",
+      "word": "blanc",
+      "translation": "blanco",
+      "phrases": [
+        {
+          "text": "Le chat est blanc.",
+          "translation": "El gato es blanco."
+        },
+        {
+          "text": "La neige est blanche.",
+          "translation": "La nieve es blanca."
+        },
+        {
+          "text": "Elle porte une robe blanche.",
+          "translation": "Ella lleva un vestido blanco."
+        }
+      ]
+    },
+    {
+      "id": "couleur-noir",
+      "word": "noir",
+      "translation": "negro",
+      "phrases": [
+        {
+          "text": "Mon café est noir.",
+          "translation": "Mi café es negro."
+        },
+        {
+          "text": "J'ai une petite robe noire.",
+          "translation": "Tengo un vestidito negro."
+        },
+        {
+          "text": "Le ciel est noir la nuit.",
+          "translation": "El cielo es negro por la noche."
+        }
+      ]
+    },
+    {
+      "id": "couleur-bleu",
+      "word": "bleu",
+      "translation": "azul",
+      "phrases": [
+        {
+          "text": "Le ciel est bleu.",
+          "translation": "El cielo es azul."
+        },
+        {
+          "text": "Il a les yeux bleus.",
+          "translation": "Tiene los ojos azules."
+        },
+        {
+          "text": "La mer est bleue aujourd'hui.",
+          "translation": "El mar está azul hoy."
+        }
+      ]
+    },
+    {
+      "id": "couleur-vert",
+      "word": "vert",
+      "translation": "verde",
+      "phrases": [
+        {
+          "text": "L'herbe est verte.",
+          "translation": "El pasto es verde."
+        },
+        {
+          "text": "Je mange une pomme verte.",
+          "translation": "Como una manzana verde."
+        },
+        {
+          "text": "Le feu est vert, on peut traverser.",
+          "translation": "El semáforo está en verde, podemos cruzar."
+        }
+      ]
+    },
+    {
+      "id": "couleur-jaune",
+      "word": "jaune",
+      "translation": "amarillo",
+      "phrases": [
+        {
+          "text": "Le soleil est jaune.",
+          "translation": "El sol es amarillo."
+        },
+        {
+          "text": "Elle porte un imperméable jaune.",
+          "translation": "Ella lleva un impermeable amarillo."
+        },
+        {
+          "text": "J'achète des bananes jaunes.",
+          "translation": "Compro bananos amarillos."
+        }
+      ]
+    },
+    {
+      "id": "couleur-rose",
+      "word": "rose",
+      "translation": "rosa",
+      "phrases": [
+        {
+          "text": "La fleur est rose.",
+          "translation": "La flor es rosa."
+        },
+        {
+          "text": "Elle a une robe rose.",
+          "translation": "Ella tiene un vestido rosa."
+        },
+        {
+          "text": "Mon sac est rose.",
+          "translation": "Mi bolso es rosa."
+        }
+      ]
+    },
+    {
+      "id": "couleur-violet",
+      "word": "violet",
+      "translation": "violeta / morado",
+      "phrases": [
+        {
+          "text": "Il porte une chemise violette.",
+          "translation": "Lleva una camisa violeta."
+        },
+        {
+          "text": "Les raisins sont violets.",
+          "translation": "Las uvas son moradas."
+        },
+        {
+          "text": "Le violet est ma couleur préférée.",
+          "translation": "El violeta es mi color favorito."
+        }
+      ]
+    },
+    {
+      "id": "couleur-marron",
+      "word": "marron",
+      "translation": "marrón / café",
+      "phrases": [
+        {
+          "text": "Mes chaussures sont marron.",
+          "translation": "Mis zapatos son marrones."
+        },
+        {
+          "text": "Il a les yeux marron.",
+          "translation": "Tiene los ojos marrones."
+        },
+        {
+          "text": "Le chien est marron.",
+          "translation": "El perro es marrón."
+        }
+      ]
+    },
+    {
+      "id": "couleur-orange",
+      "word": "orange",
+      "translation": "naranja",
+      "phrases": [
+        {
+          "text": "Ma voiture est orange.",
+          "translation": "Mi coche es naranja."
+        },
+        {
+          "text": "Elle porte une écharpe orange.",
+          "translation": "Ella lleva una bufanda naranja."
+        },
+        {
+          "text": "Les feuilles sont orange en automne.",
+          "translation": "Las hojas son naranjas en otoño."
+        }
+      ]
+    },
+    {
+      "id": "couleur-gris",
+      "word": "gris",
+      "translation": "gris",
+      "phrases": [
+        {
+          "text": "Le ciel est gris aujourd'hui.",
+          "translation": "El cielo está gris hoy."
+        },
+        {
+          "text": "Il porte un costume gris.",
+          "translation": "Lleva un traje gris."
+        },
+        {
+          "text": "La souris est grise.",
+          "translation": "El ratón es gris."
+        }
+      ]
     }
   ]
 }

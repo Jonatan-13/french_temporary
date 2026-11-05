@@ -439,5 +439,378 @@ window.PRACTICE = [
         "audio": "audio/2ed88887498b.mp3"
       }
     ]
+  },
+  {
+    "id": "table",
+    "word": "la table",
+    "translation": "la mesa",
+    "gender": "f",
+    "audio": "audio/85230e7ff76f.mp3",
+    "phrases": [
+      {
+        "text": "Nous mangeons à table.",
+        "translation": "Comemos en la mesa.",
+        "audio": "audio/38a31e7412eb.mp3"
+      },
+      {
+        "text": "La table est en bois.",
+        "translation": "La mesa es de madera.",
+        "audio": "audio/13ba76f0ba48.mp3"
+      },
+      {
+        "text": "Il y a un vase sur la table.",
+        "translation": "Hay un jarrón sobre la mesa.",
+        "audio": "audio/f740235f52c1.mp3"
+      }
+    ]
+  },
+  {
+    "id": "chaise",
+    "word": "la chaise",
+    "translation": "la silla",
+    "gender": "f",
+    "audio": "audio/8df81e46e1e0.mp3",
+    "phrases": [
+      {
+        "text": "Assieds-toi sur cette chaise.",
+        "translation": "Siéntate en esta silla.",
+        "audio": "audio/f27f4945676d.mp3"
+      },
+      {
+        "text": "Il y a quatre chaises autour de la table.",
+        "translation": "Hay cuatro sillas alrededor de la mesa.",
+        "audio": "audio/269cc9ccbe0e.mp3"
+      },
+      {
+        "text": "Cette chaise est très confortable.",
+        "translation": "Esta silla es muy cómoda.",
+        "audio": "audio/2b93b45b2371.mp3"
+      }
+    ]
+  },
+  {
+    "id": "bouteille",
+    "word": "la bouteille",
+    "translation": "la botella",
+    "gender": "f",
+    "audio": "audio/3de715c61a1b.mp3",
+    "phrases": [
+      {
+        "text": "Je bois de l'eau dans une bouteille.",
+        "translation": "Bebo agua de una botella.",
+        "audio": "audio/8bbbf2f49235.mp3"
+      },
+      {
+        "text": "La bouteille est vide.",
+        "translation": "La botella está vacía.",
+        "audio": "audio/fc81073de747.mp3"
+      },
+      {
+        "text": "Une bouteille de vin, s'il vous plaît.",
+        "translation": "Una botella de vino, por favor.",
+        "audio": "audio/f5f832964a06.mp3"
+      }
+    ]
+  },
+  {
+    "id": "lumiere",
+    "word": "la lumière",
+    "translation": "la luz",
+    "gender": "f",
+    "audio": "audio/899af3312f8b.mp3",
+    "phrases": [
+      {
+        "text": "Allume la lumière, s'il te plaît.",
+        "translation": "Enciende la luz, por favor.",
+        "audio": "audio/b3ad69665bc2.mp3"
+      },
+      {
+        "text": "Il n'y a pas de lumière dans la chambre.",
+        "translation": "No hay luz en la habitación.",
+        "audio": "audio/6277e767aa2d.mp3"
+      },
+      {
+        "text": "La lumière du soleil entre par la fenêtre.",
+        "translation": "La luz del sol entra por la ventana.",
+        "audio": "audio/b4bf4c582869.mp3"
+      }
+    ]
+  },
+  {
+    "id": "lunettes",
+    "word": "les lunettes",
+    "translation": "las gafas",
+    "gender": "f",
+    "audio": "audio/8135382ee56e.mp3",
+    "phrases": [
+      {
+        "text": "Je ne trouve pas mes lunettes.",
+        "translation": "No encuentro mis gafas.",
+        "audio": "audio/902b73b20b28.mp3"
+      },
+      {
+        "text": "Il porte des lunettes rondes.",
+        "translation": "Lleva gafas redondas.",
+        "audio": "audio/a3be1e59b27d.mp3"
+      },
+      {
+        "text": "Elle achète des lunettes de soleil.",
+        "translation": "Ella compra gafas de sol.",
+        "audio": "audio/bb04a5125c8b.mp3"
+      }
+    ]
+  },
+  {
+    "id": "couleur-rouge",
+    "word": "rouge",
+    "translation": "rojo",
+    "audio": "audio/cf683756c6e3.mp3",
+    "phrases": [
+      {
+        "text": "La pomme est rouge.",
+        "translation": "La manzana es roja.",
+        "audio": "audio/7cda7ddefe97.mp3"
+      },
+      {
+        "text": "J'aime la voiture rouge.",
+        "translation": "Me gusta el coche rojo.",
+        "audio": "audio/8a914553bd49.mp3"
+      },
+      {
+        "text": "Il porte un pull rouge.",
+        "translation": "Lleva un suéter rojo.",
+        "audio": "audio/6e62e3c426fd.mp3"
+      }
+    ]
+  },
+  {
+    "id": "couleur-blanc",
+    "word": "blanc",
+    "translation": "blanco",
+    "audio": "audio/20ab3fd9ea3f.mp3",
+    "phrases": [
+      {
+        "text": "Le chat est blanc.",
+        "translation": "El gato es blanco.",
+        "audio": "audio/cddb197f2c11.mp3"
+      },
+      {
+        "text": "La neige est blanche.",
+        "translation": "La nieve es blanca.",
+        "audio": "audio/b6f1f02e31ce.mp3"
+      },
+      {
+        "text": "Elle porte une robe blanche.",
+        "translation": "Ella lleva un vestido blanco.",
+        "audio": "audio/9dbfba899ebb.mp3"
+      }
+    ]
+  },
+  {
+    "id": "couleur-noir",
+    "word": "noir",
+    "translation": "negro",
+    "audio": "audio/ce1f59b5379c.mp3",
+    "phrases": [
+      {
+        "text": "Mon café est noir.",
+        "translation": "Mi café es negro.",
+        "audio": "audio/ec5f7d84a772.mp3"
+      },
+      {
+        "text": "J'ai une petite robe noire.",
+        "translation": "Tengo un vestidito negro.",
+        "audio": "audio/b00792725230.mp3"
+      },
+      {
+        "text": "Le ciel est noir la nuit.",
+        "translation": "El cielo es negro por la noche.",
+        "audio": "audio/0dcad0c24758.mp3"
+      }
+    ]
+  },
+  {
+    "id": "couleur-bleu",
+    "word": "bleu",
+    "translation": "azul",
+    "audio": "audio/9db23bef47d6.mp3",
+    "phrases": [
+      {
+        "text": "Le ciel est bleu.",
+        "translation": "El cielo es azul.",
+        "audio": "audio/9505d36585d3.mp3"
+      },
+      {
+        "text": "Il a les yeux bleus.",
+        "translation": "Tiene los ojos azules.",
+        "audio": "audio/5647a759da63.mp3"
+      },
+      {
+        "text": "La mer est bleue aujourd'hui.",
+        "translation": "El mar está azul hoy.",
+        "audio": "audio/7fe02b46ed39.mp3"
+      }
+    ]
+  },
+  {
+    "id": "couleur-vert",
+    "word": "vert",
+    "translation": "verde",
+    "audio": "audio/999ff018155c.mp3",
+    "phrases": [
+      {
+        "text": "L'herbe est verte.",
+        "translation": "El pasto es verde.",
+        "audio": "audio/168dd84c897b.mp3"
+      },
+      {
+        "text": "Je mange une pomme verte.",
+        "translation": "Como una manzana verde.",
+        "audio": "audio/860cdd8ab1b0.mp3"
+      },
+      {
+        "text": "Le feu est vert, on peut traverser.",
+        "translation": "El semáforo está en verde, podemos cruzar.",
+        "audio": "audio/c2f947a4eb32.mp3"
+      }
+    ]
+  },
+  {
+    "id": "couleur-jaune",
+    "word": "jaune",
+    "translation": "amarillo",
+    "audio": "audio/ae152632892c.mp3",
+    "phrases": [
+      {
+        "text": "Le soleil est jaune.",
+        "translation": "El sol es amarillo.",
+        "audio": "audio/1d917ffd8ce6.mp3"
+      },
+      {
+        "text": "Elle porte un imperméable jaune.",
+        "translation": "Ella lleva un impermeable amarillo.",
+        "audio": "audio/cd8722f801f7.mp3"
+      },
+      {
+        "text": "J'achète des bananes jaunes.",
+        "translation": "Compro bananos amarillos.",
+        "audio": "audio/f39d6be5032e.mp3"
+      }
+    ]
+  },
+  {
+    "id": "couleur-rose",
+    "word": "rose",
+    "translation": "rosa",
+    "audio": "audio/9e181fa1a0d5.mp3",
+    "phrases": [
+      {
+        "text": "La fleur est rose.",
+        "translation": "La flor es rosa.",
+        "audio": "audio/b2d90c0a1922.mp3"
+      },
+      {
+        "text": "Elle a une robe rose.",
+        "translation": "Ella tiene un vestido rosa.",
+        "audio": "audio/19673e10e701.mp3"
+      },
+      {
+        "text": "Mon sac est rose.",
+        "translation": "Mi bolso es rosa.",
+        "audio": "audio/9d5321d8a9a5.mp3"
+      }
+    ]
+  },
+  {
+    "id": "couleur-violet",
+    "word": "violet",
+    "translation": "violeta / morado",
+    "audio": "audio/32134325c1ce.mp3",
+    "phrases": [
+      {
+        "text": "Il porte une chemise violette.",
+        "translation": "Lleva una camisa violeta.",
+        "audio": "audio/ac6718371496.mp3"
+      },
+      {
+        "text": "Les raisins sont violets.",
+        "translation": "Las uvas son moradas.",
+        "audio": "audio/7672bed561bb.mp3"
+      },
+      {
+        "text": "Le violet est ma couleur préférée.",
+        "translation": "El violeta es mi color favorito.",
+        "audio": "audio/322bbe200c57.mp3"
+      }
+    ]
+  },
+  {
+    "id": "couleur-marron",
+    "word": "marron",
+    "translation": "marrón / café",
+    "audio": "audio/076ef5fa6e9a.mp3",
+    "phrases": [
+      {
+        "text": "Mes chaussures sont marron.",
+        "translation": "Mis zapatos son marrones.",
+        "audio": "audio/61f1fcd39dbf.mp3"
+      },
+      {
+        "text": "Il a les yeux marron.",
+        "translation": "Tiene los ojos marrones.",
+        "audio": "audio/8e364efff292.mp3"
+      },
+      {
+        "text": "Le chien est marron.",
+        "translation": "El perro es marrón.",
+        "audio": "audio/e4766cf0fa99.mp3"
+      }
+    ]
+  },
+  {
+    "id": "couleur-orange",
+    "word": "orange",
+    "translation": "naranja",
+    "audio": "audio/1ba6c3a2e057.mp3",
+    "phrases": [
+      {
+        "text": "Ma voiture est orange.",
+        "translation": "Mi coche es naranja.",
+        "audio": "audio/0631c7fd4506.mp3"
+      },
+      {
+        "text": "Elle porte une écharpe orange.",
+        "translation": "Ella lleva una bufanda naranja.",
+        "audio": "audio/0e8f90ee2e10.mp3"
+      },
+      {
+        "text": "Les feuilles sont orange en automne.",
+        "translation": "Las hojas son naranjas en otoño.",
+        "audio": "audio/43b23d092d6e.mp3"
+      }
+    ]
+  },
+  {
+    "id": "couleur-gris",
+    "word": "gris",
+    "translation": "gris",
+    "audio": "audio/d83168c1c93a.mp3",
+    "phrases": [
+      {
+        "text": "Le ciel est gris aujourd'hui.",
+        "translation": "El cielo está gris hoy.",
+        "audio": "audio/0633b5c281a3.mp3"
+      },
+      {
+        "text": "Il porte un costume gris.",
+        "translation": "Lleva un traje gris.",
+        "audio": "audio/822b8ee5cb79.mp3"
+      },
+      {
+        "text": "La souris est grise.",
+        "translation": "El ratón es gris.",
+        "audio": "audio/e796e9b28352.mp3"
+      }
+    ]
   }
 ];

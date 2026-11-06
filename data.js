@@ -165,6 +165,7 @@ window.PRACTICE = [
     "word": "un",
     "translation": "uno (1)",
     "mark": "1",
+    "image": "images/nombre-1.webp",
     "audio": "audio/5f80571d570a.mp3",
     "phrases": [
       {
@@ -184,6 +185,7 @@ window.PRACTICE = [
     "word": "deux",
     "translation": "dos (2)",
     "mark": "2",
+    "image": "images/nombre-2.webp",
     "audio": "audio/bc1d1713821b.mp3",
     "phrases": [
       {
@@ -203,6 +205,7 @@ window.PRACTICE = [
     "word": "trois",
     "translation": "tres (3)",
     "mark": "3",
+    "image": "images/nombre-3.webp",
     "audio": "audio/7409672da951.mp3",
     "phrases": [
       {
@@ -222,6 +225,7 @@ window.PRACTICE = [
     "word": "quatre",
     "translation": "cuatro (4)",
     "mark": "4",
+    "image": "images/nombre-4.webp",
     "audio": "audio/69d78616dea6.mp3",
     "phrases": [
       {
@@ -241,6 +245,7 @@ window.PRACTICE = [
     "word": "cinq",
     "translation": "cinco (5)",
     "mark": "5",
+    "image": "images/nombre-5.webp",
     "audio": "audio/b2943df34941.mp3",
     "phrases": [
       {
@@ -260,6 +265,7 @@ window.PRACTICE = [
     "word": "six",
     "translation": "seis (6)",
     "mark": "6",
+    "image": "images/nombre-6.webp",
     "audio": "audio/b1a86dd2f18a.mp3",
     "phrases": [
       {
@@ -279,6 +285,7 @@ window.PRACTICE = [
     "word": "sept",
     "translation": "siete (7)",
     "mark": "7",
+    "image": "images/nombre-7.webp",
     "audio": "audio/99ddc1b26461.mp3",
     "phrases": [
       {
@@ -298,6 +305,7 @@ window.PRACTICE = [
     "word": "huit",
     "translation": "ocho (8)",
     "mark": "8",
+    "image": "images/nombre-8.webp",
     "audio": "audio/f294717f4c52.mp3",
     "phrases": [
       {
@@ -317,6 +325,7 @@ window.PRACTICE = [
     "word": "neuf",
     "translation": "nueve (9)",
     "mark": "9",
+    "image": "images/nombre-9.webp",
     "audio": "audio/1206684b38ae.mp3",
     "phrases": [
       {
@@ -336,6 +345,7 @@ window.PRACTICE = [
     "word": "dix",
     "translation": "diez (10)",
     "mark": "10",
+    "image": "images/nombre-10.webp",
     "audio": "audio/600dd48d7383.mp3",
     "phrases": [
       {
@@ -1179,6 +1189,7 @@ window.PRACTICE = [
     "word": "la gomme",
     "translation": "el borrador",
     "gender": "f",
+    "image": "images/gomme.webp",
     "audio": "audio/adc3cb9edb6b.mp3",
     "phrases": [
       {
@@ -1303,6 +1314,7 @@ window.PRACTICE = [
     "word": "la pluie",
     "translation": "la lluvia",
     "gender": "f",
+    "image": "images/pluie.webp",
     "audio": "audio/f3d1a0e84a73.mp3",
     "phrases": [
       {

@@ -5,7 +5,7 @@ window.PRACTICE = [
     "word": "le chat",
     "translation": "el gato",
     "gender": "m",
-    "image": "images/chat.png",
+    "image": "images/chat.webp",
     "audio": "audio/dbf273d5c341.mp3",
     "phrases": [
       {
@@ -25,7 +25,7 @@ window.PRACTICE = [
     "word": "la maison",
     "translation": "la casa",
     "gender": "f",
-    "image": "images/maison.png",
+    "image": "images/maison.webp",
     "audio": "audio/8188274fe94b.mp3",
     "phrases": [
       {
@@ -60,7 +60,7 @@ window.PRACTICE = [
     "word": "l'orange",
     "translation": "la naranja",
     "gender": "f",
-    "image": "images/orange.png",
+    "image": "images/orange.webp",
     "audio": "audio/49a3033d33e5.mp3",
     "phrases": [
       {
@@ -95,7 +95,7 @@ window.PRACTICE = [
     "word": "le livre",
     "translation": "el libro",
     "gender": "m",
-    "image": "images/livre.png",
+    "image": "images/livre.webp",
     "audio": "audio/368e87501f41.mp3",
     "phrases": [
       {
@@ -130,7 +130,7 @@ window.PRACTICE = [
     "word": "le stylo",
     "translation": "el bolígrafo",
     "gender": "m",
-    "image": "images/stylo.png",
+    "image": "images/stylo.webp",
     "audio": "audio/8413d7d4a841.mp3",
     "phrases": [
       {
@@ -445,6 +445,7 @@ window.PRACTICE = [
     "word": "la table",
     "translation": "la mesa",
     "gender": "f",
+    "image": "images/table.webp",
     "audio": "audio/85230e7ff76f.mp3",
     "phrases": [
       {
@@ -469,6 +470,7 @@ window.PRACTICE = [
     "word": "la chaise",
     "translation": "la silla",
     "gender": "f",
+    "image": "images/chaise.webp",
     "audio": "audio/8df81e46e1e0.mp3",
     "phrases": [
       {
@@ -493,6 +495,7 @@ window.PRACTICE = [
     "word": "la bouteille",
     "translation": "la botella",
     "gender": "f",
+    "image": "images/bouteille.webp",
     "audio": "audio/3de715c61a1b.mp3",
     "phrases": [
       {
@@ -517,6 +520,7 @@ window.PRACTICE = [
     "word": "la lumière",
     "translation": "la luz",
     "gender": "f",
+    "image": "images/lumiere.webp",
     "audio": "audio/899af3312f8b.mp3",
     "phrases": [
       {
@@ -541,6 +545,7 @@ window.PRACTICE = [
     "word": "les lunettes",
     "translation": "las gafas",
     "gender": "f",
+    "image": "images/lunettes.webp",
     "audio": "audio/8135382ee56e.mp3",
     "phrases": [
       {
@@ -564,6 +569,7 @@ window.PRACTICE = [
     "id": "couleur-rouge",
     "word": "rouge",
     "translation": "rojo",
+    "image": "images/couleur-rouge.webp",
     "audio": "audio/cf683756c6e3.mp3",
     "phrases": [
       {
@@ -587,6 +593,7 @@ window.PRACTICE = [
     "id": "couleur-blanc",
     "word": "blanc",
     "translation": "blanco",
+    "image": "images/couleur-blanc.webp",
     "audio": "audio/20ab3fd9ea3f.mp3",
     "phrases": [
       {
@@ -610,6 +617,7 @@ window.PRACTICE = [
     "id": "couleur-noir",
     "word": "noir",
     "translation": "negro",
+    "image": "images/couleur-noir.webp",
     "audio": "audio/ce1f59b5379c.mp3",
     "phrases": [
       {
@@ -633,6 +641,7 @@ window.PRACTICE = [
     "id": "couleur-bleu",
     "word": "bleu",
     "translation": "azul",
+    "image": "images/couleur-bleu.webp",
     "audio": "audio/9db23bef47d6.mp3",
     "phrases": [
       {
@@ -656,6 +665,7 @@ window.PRACTICE = [
     "id": "couleur-vert",
     "word": "vert",
     "translation": "verde",
+    "image": "images/couleur-vert.webp",
     "audio": "audio/999ff018155c.mp3",
     "phrases": [
       {
@@ -679,6 +689,7 @@ window.PRACTICE = [
     "id": "couleur-jaune",
     "word": "jaune",
     "translation": "amarillo",
+    "image": "images/couleur-jaune.webp",
     "audio": "audio/ae152632892c.mp3",
     "phrases": [
       {
@@ -702,6 +713,7 @@ window.PRACTICE = [
     "id": "couleur-rose",
     "word": "rose",
     "translation": "rosa",
+    "image": "images/couleur-rose.webp",
     "audio": "audio/9e181fa1a0d5.mp3",
     "phrases": [
       {
@@ -725,6 +737,7 @@ window.PRACTICE = [
     "id": "couleur-violet",
     "word": "violet",
     "translation": "violeta / morado",
+    "image": "images/couleur-violet.webp",
     "audio": "audio/32134325c1ce.mp3",
     "phrases": [
       {
@@ -748,6 +761,7 @@ window.PRACTICE = [
     "id": "couleur-marron",
     "word": "marron",
     "translation": "marrón / café",
+    "image": "images/couleur-marron.webp",
     "audio": "audio/076ef5fa6e9a.mp3",
     "phrases": [
       {
@@ -771,6 +785,7 @@ window.PRACTICE = [
     "id": "couleur-orange",
     "word": "orange",
     "translation": "naranja",
+    "image": "images/couleur-orange.webp",
     "audio": "audio/1ba6c3a2e057.mp3",
     "phrases": [
       {
@@ -794,6 +809,7 @@ window.PRACTICE = [
     "id": "couleur-gris",
     "word": "gris",
     "translation": "gris",
+    "image": "images/couleur-gris.webp",
     "audio": "audio/d83168c1c93a.mp3",
     "phrases": [
       {
@@ -810,6 +826,549 @@ window.PRACTICE = [
         "text": "La souris est grise.",
         "translation": "El ratón es gris.",
         "audio": "audio/e796e9b28352.mp3"
+      }
+    ]
+  },
+  {
+    "id": "nuit",
+    "word": "la nuit",
+    "translation": "la noche",
+    "gender": "f",
+    "image": "images/nuit.webp",
+    "audio": "audio/c659d437f0c5.mp3",
+    "phrases": [
+      {
+        "text": "Bonne nuit !",
+        "translation": "¡Buenas noches!",
+        "audio": "audio/f40ad0b2e407.mp3"
+      },
+      {
+        "text": "La nuit, il fait froid.",
+        "translation": "De noche hace frío.",
+        "audio": "audio/7e34bc3866a4.mp3"
+      },
+      {
+        "text": "Je dors huit heures par nuit.",
+        "translation": "Duermo ocho horas por noche.",
+        "audio": "audio/fe7977814cb7.mp3"
+      }
+    ]
+  },
+  {
+    "id": "eau",
+    "word": "l'eau",
+    "translation": "el agua",
+    "gender": "f",
+    "image": "images/eau.webp",
+    "audio": "audio/c3d4a8c14dda.mp3",
+    "phrases": [
+      {
+        "text": "Je bois un verre d'eau.",
+        "translation": "Bebo un vaso de agua.",
+        "audio": "audio/cc7d8af399f5.mp3"
+      },
+      {
+        "text": "L'eau est froide.",
+        "translation": "El agua está fría.",
+        "audio": "audio/e98a4263da51.mp3"
+      },
+      {
+        "text": "Tu veux de l'eau ?",
+        "translation": "¿Quieres agua?",
+        "audio": "audio/acf5976c1898.mp3"
+      }
+    ]
+  },
+  {
+    "id": "assiette",
+    "word": "l'assiette",
+    "translation": "el plato",
+    "gender": "f",
+    "image": "images/assiette.webp",
+    "audio": "audio/45cc1bdf622f.mp3",
+    "phrases": [
+      {
+        "text": "Il y a une pomme dans l'assiette.",
+        "translation": "Hay una manzana en el plato.",
+        "audio": "audio/58d9ea8f1d94.mp3"
+      },
+      {
+        "text": "L'assiette est sur la table.",
+        "translation": "El plato está sobre la mesa.",
+        "audio": "audio/e745ffa1749c.mp3"
+      },
+      {
+        "text": "Passe-moi une assiette, s'il te plaît.",
+        "translation": "Pásame un plato, por favor.",
+        "audio": "audio/bdcff498517d.mp3"
+      }
+    ]
+  },
+  {
+    "id": "verre",
+    "word": "le verre",
+    "translation": "el vaso",
+    "gender": "m",
+    "image": "images/verre.webp",
+    "audio": "audio/4c5885648a46.mp3",
+    "phrases": [
+      {
+        "text": "Je voudrais un verre de jus.",
+        "translation": "Quisiera un vaso de jugo.",
+        "audio": "audio/bc988c416fbf.mp3"
+      },
+      {
+        "text": "Le verre est plein.",
+        "translation": "El vaso está lleno.",
+        "audio": "audio/5d21cbaa127d.mp3"
+      },
+      {
+        "text": "Attention, le verre est cassé.",
+        "translation": "Cuidado, el vaso está roto.",
+        "audio": "audio/683d3398117c.mp3"
+      }
+    ]
+  },
+  {
+    "id": "canape",
+    "word": "le canapé",
+    "translation": "el sofá",
+    "gender": "m",
+    "image": "images/canape.webp",
+    "audio": "audio/5512a2988931.mp3",
+    "phrases": [
+      {
+        "text": "Nous regardons la télé sur le canapé.",
+        "translation": "Vemos la tele en el sofá.",
+        "audio": "audio/6d4990666cbb.mp3"
+      },
+      {
+        "text": "Le canapé est très confortable.",
+        "translation": "El sofá es muy cómodo.",
+        "audio": "audio/052c299bd4bd.mp3"
+      }
+    ]
+  },
+  {
+    "id": "televiseur",
+    "word": "le téléviseur",
+    "translation": "el televisor",
+    "gender": "m",
+    "image": "images/televiseur.webp",
+    "audio": "audio/ed85dd3066c8.mp3",
+    "phrases": [
+      {
+        "text": "Le téléviseur est dans le salon.",
+        "translation": "El televisor está en la sala.",
+        "audio": "audio/bda732e3034e.mp3"
+      },
+      {
+        "text": "Éteins le téléviseur, s'il te plaît.",
+        "translation": "Apaga el televisor, por favor.",
+        "audio": "audio/1c8add7aba90.mp3"
+      },
+      {
+        "text": "Nous avons un nouveau téléviseur.",
+        "translation": "Tenemos un televisor nuevo.",
+        "audio": "audio/739a5dc9b383.mp3"
+      }
+    ]
+  },
+  {
+    "id": "chambre",
+    "word": "la chambre",
+    "translation": "la habitación",
+    "gender": "f",
+    "image": "images/chambre.webp",
+    "audio": "audio/4bc26d1ea473.mp3",
+    "phrases": [
+      {
+        "text": "Ma chambre est au premier étage.",
+        "translation": "Mi habitación está en el primer piso.",
+        "audio": "audio/03c9dae1a620.mp3"
+      },
+      {
+        "text": "Il range sa chambre.",
+        "translation": "Él ordena su habitación.",
+        "audio": "audio/073b2026b974.mp3"
+      },
+      {
+        "text": "La chambre est petite mais claire.",
+        "translation": "La habitación es pequeña pero luminosa.",
+        "audio": "audio/0f1ce046824e.mp3"
+      }
+    ]
+  },
+  {
+    "id": "sol",
+    "word": "le sol",
+    "translation": "el piso",
+    "gender": "m",
+    "image": "images/sol.webp",
+    "audio": "audio/19fb31b9bed0.mp3",
+    "phrases": [
+      {
+        "text": "Le sol est propre.",
+        "translation": "El piso está limpio.",
+        "audio": "audio/bf5ebba55730.mp3"
+      },
+      {
+        "text": "Il y a un tapis sur le sol.",
+        "translation": "Hay una alfombra en el piso.",
+        "audio": "audio/4f5951ebc045.mp3"
+      },
+      {
+        "text": "Le sol de la cuisine est froid.",
+        "translation": "El piso de la cocina está frío.",
+        "audio": "audio/d853c5d2de64.mp3"
+      }
+    ]
+  },
+  {
+    "id": "plafond",
+    "word": "le plafond",
+    "translation": "el techo",
+    "gender": "m",
+    "image": "images/plafond.webp",
+    "audio": "audio/c2cd1ec4b4eb.mp3",
+    "phrases": [
+      {
+        "text": "Il y a une lampe au plafond.",
+        "translation": "Hay una lámpara en el techo.",
+        "audio": "audio/9a8b01b2b06c.mp3"
+      },
+      {
+        "text": "Le plafond est blanc.",
+        "translation": "El techo es blanco.",
+        "audio": "audio/9684c16f1d4d.mp3"
+      },
+      {
+        "text": "Le plafond est très haut.",
+        "translation": "El techo es muy alto.",
+        "audio": "audio/78f6f1f8b698.mp3"
+      }
+    ]
+  },
+  {
+    "id": "mur",
+    "word": "le mur",
+    "translation": "la pared",
+    "gender": "m",
+    "image": "images/mur.webp",
+    "audio": "audio/fd2d74d0f66b.mp3",
+    "phrases": [
+      {
+        "text": "Il y a un tableau sur le mur.",
+        "translation": "Hay un cuadro en la pared.",
+        "audio": "audio/dbd8e57f9e08.mp3"
+      },
+      {
+        "text": "Le mur est blanc.",
+        "translation": "La pared es blanca.",
+        "audio": "audio/77623011d861.mp3"
+      },
+      {
+        "text": "Nous peignons le mur en bleu.",
+        "translation": "Pintamos la pared de azul.",
+        "audio": "audio/d62cda04a024.mp3"
+      }
+    ]
+  },
+  {
+    "id": "fenetre",
+    "word": "la fenêtre",
+    "translation": "la ventana",
+    "gender": "f",
+    "image": "images/fenetre.webp",
+    "audio": "audio/2aace7fac26f.mp3",
+    "phrases": [
+      {
+        "text": "Ouvre la fenêtre, s'il te plaît.",
+        "translation": "Abre la ventana, por favor.",
+        "audio": "audio/66817aed91a3.mp3"
+      },
+      {
+        "text": "Je regarde par la fenêtre.",
+        "translation": "Miro por la ventana.",
+        "audio": "audio/cc705f708a80.mp3"
+      },
+      {
+        "text": "La fenêtre est fermée.",
+        "translation": "La ventana está cerrada.",
+        "audio": "audio/4017870a09f4.mp3"
+      }
+    ]
+  },
+  {
+    "id": "fleur",
+    "word": "la fleur",
+    "translation": "la flor",
+    "gender": "f",
+    "image": "images/fleur.webp",
+    "audio": "audio/b522859d6691.mp3",
+    "phrases": [
+      {
+        "text": "Elle offre une fleur à sa mère.",
+        "translation": "Ella le regala una flor a su mamá.",
+        "audio": "audio/06d5c35e8a3e.mp3"
+      },
+      {
+        "text": "Cette fleur est rose.",
+        "translation": "Esta flor es rosa.",
+        "audio": "audio/ca779efbcee4.mp3"
+      },
+      {
+        "text": "Il y a des fleurs dans le jardin.",
+        "translation": "Hay flores en el jardín.",
+        "audio": "audio/92a412db118e.mp3"
+      }
+    ]
+  },
+  {
+    "id": "lit",
+    "word": "le lit",
+    "translation": "la cama",
+    "gender": "m",
+    "image": "images/lit.webp",
+    "audio": "audio/79ed83217d95.mp3",
+    "phrases": [
+      {
+        "text": "Je suis dans mon lit.",
+        "translation": "Estoy en mi cama.",
+        "audio": "audio/c956aa1a4851.mp3"
+      },
+      {
+        "text": "Le lit est très confortable.",
+        "translation": "La cama es muy cómoda.",
+        "audio": "audio/fded40f0822c.mp3"
+      },
+      {
+        "text": "Elle fait son lit tous les matins.",
+        "translation": "Ella hace su cama todas las mañanas.",
+        "audio": "audio/0825ba8dfa6a.mp3"
+      }
+    ]
+  },
+  {
+    "id": "crayon",
+    "word": "le crayon",
+    "translation": "el lápiz",
+    "gender": "m",
+    "image": "images/crayon.webp",
+    "audio": "audio/67021ae2046d.mp3",
+    "phrases": [
+      {
+        "text": "Écris avec un crayon.",
+        "translation": "Escribe con un lápiz.",
+        "audio": "audio/068bc5b11e41.mp3"
+      },
+      {
+        "text": "J'ai besoin d'un crayon et d'une gomme.",
+        "translation": "Necesito un lápiz y un borrador.",
+        "audio": "audio/bbb3441c498f.mp3"
+      },
+      {
+        "text": "Ce crayon est jaune.",
+        "translation": "Este lápiz es amarillo.",
+        "audio": "audio/54a2b322a187.mp3"
+      }
+    ]
+  },
+  {
+    "id": "gomme",
+    "word": "la gomme",
+    "translation": "el borrador",
+    "gender": "f",
+    "audio": "audio/adc3cb9edb6b.mp3",
+    "phrases": [
+      {
+        "text": "Peux-tu me prêter ta gomme ?",
+        "translation": "¿Me prestas tu borrador?",
+        "audio": "audio/0f7fb658b768.mp3"
+      },
+      {
+        "text": "J'efface avec une gomme.",
+        "translation": "Borro con un borrador.",
+        "audio": "audio/4c049911da99.mp3"
+      },
+      {
+        "text": "La gomme est dans ma trousse.",
+        "translation": "El borrador está en mi cartuchera.",
+        "audio": "audio/ccd0822a63b4.mp3"
+      }
+    ]
+  },
+  {
+    "id": "ordinateur",
+    "word": "l'ordinateur",
+    "translation": "el computador",
+    "gender": "m",
+    "image": "images/ordinateur.webp",
+    "audio": "audio/4eac0cf9b67a.mp3",
+    "phrases": [
+      {
+        "text": "Mon ordinateur est neuf.",
+        "translation": "Mi computador es nuevo.",
+        "audio": "audio/177663e4e15d.mp3"
+      },
+      {
+        "text": "Elle travaille sur son ordinateur.",
+        "translation": "Ella trabaja en su computador.",
+        "audio": "audio/847d7c12f2f6.mp3"
+      },
+      {
+        "text": "J'éteins l'ordinateur.",
+        "translation": "Apago el computador.",
+        "audio": "audio/357834f9f262.mp3"
+      }
+    ]
+  },
+  {
+    "id": "cle",
+    "word": "la clé",
+    "translation": "la llave",
+    "gender": "f",
+    "image": "images/cle.webp",
+    "audio": "audio/0a9611672e99.mp3",
+    "phrases": [
+      {
+        "text": "Où est ma clé ?",
+        "translation": "¿Dónde está mi llave?",
+        "audio": "audio/277cb54e0e69.mp3"
+      },
+      {
+        "text": "J'ai oublié la clé de la maison.",
+        "translation": "Olvidé la llave de la casa.",
+        "audio": "audio/dd2c1f6ee0bc.mp3"
+      },
+      {
+        "text": "Il ferme la porte à clé.",
+        "translation": "Él cierra la puerta con llave.",
+        "audio": "audio/6b12dc38725f.mp3"
+      }
+    ]
+  },
+  {
+    "id": "argent",
+    "word": "l'argent",
+    "translation": "la plata",
+    "gender": "m",
+    "image": "images/argent.webp",
+    "audio": "audio/6cd261e09760.mp3",
+    "phrases": [
+      {
+        "text": "Je n'ai pas d'argent.",
+        "translation": "No tengo plata.",
+        "audio": "audio/bf2514ea27cc.mp3"
+      },
+      {
+        "text": "Cette bague est en argent.",
+        "translation": "Este anillo es de plata.",
+        "audio": "audio/12e188ae0cde.mp3"
+      },
+      {
+        "text": "Il gagne de l'argent.",
+        "translation": "Él gana plata.",
+        "audio": "audio/e3def363017b.mp3"
+      }
+    ]
+  },
+  {
+    "id": "telephone-portable",
+    "word": "le téléphone portable",
+    "translation": "el celular",
+    "gender": "m",
+    "image": "images/telephone-portable.webp",
+    "audio": "audio/5e296ce133c9.mp3",
+    "phrases": [
+      {
+        "text": "Mon téléphone portable est sur la table.",
+        "translation": "Mi celular está sobre la mesa.",
+        "audio": "audio/2defa9f13b58.mp3"
+      },
+      {
+        "text": "Elle utilise son téléphone portable.",
+        "translation": "Ella usa su celular.",
+        "audio": "audio/3667b105cf22.mp3"
+      },
+      {
+        "text": "Éteignez vos téléphones portables.",
+        "translation": "Apaguen sus celulares.",
+        "audio": "audio/bf7dd2953c1c.mp3"
+      }
+    ]
+  },
+  {
+    "id": "pluie",
+    "word": "la pluie",
+    "translation": "la lluvia",
+    "gender": "f",
+    "audio": "audio/f3d1a0e84a73.mp3",
+    "phrases": [
+      {
+        "text": "Il y a de la pluie aujourd'hui.",
+        "translation": "Hoy hay lluvia.",
+        "audio": "audio/5658fbc487a5.mp3"
+      },
+      {
+        "text": "J'aime le bruit de la pluie.",
+        "translation": "Me gusta el ruido de la lluvia.",
+        "audio": "audio/8cf7f7f1bf49.mp3"
+      },
+      {
+        "text": "La pluie tombe depuis ce matin.",
+        "translation": "La lluvia cae desde esta mañana.",
+        "audio": "audio/a376782e3750.mp3"
+      }
+    ]
+  },
+  {
+    "id": "parapluie",
+    "word": "le parapluie",
+    "translation": "la sombrilla",
+    "gender": "m",
+    "image": "images/parapluie.webp",
+    "audio": "audio/7133465bd503.mp3",
+    "phrases": [
+      {
+        "text": "Prends ton parapluie, il pleut.",
+        "translation": "Toma tu sombrilla, está lloviendo.",
+        "audio": "audio/62afa218eba4.mp3"
+      },
+      {
+        "text": "J'ai oublié mon parapluie.",
+        "translation": "Olvidé mi sombrilla.",
+        "audio": "audio/53e41c9c660a.mp3"
+      },
+      {
+        "text": "Le parapluie est rouge.",
+        "translation": "La sombrilla es roja.",
+        "audio": "audio/1b4013b40ef7.mp3"
+      }
+    ]
+  },
+  {
+    "id": "soleil",
+    "word": "le soleil",
+    "translation": "el sol",
+    "gender": "m",
+    "image": "images/soleil.webp",
+    "audio": "audio/795810f84998.mp3",
+    "phrases": [
+      {
+        "text": "Le soleil brille aujourd'hui.",
+        "translation": "El sol brilla hoy.",
+        "audio": "audio/2624bcd2f278.mp3"
+      },
+      {
+        "text": "Mets tes lunettes de soleil.",
+        "translation": "Ponte tus gafas de sol.",
+        "audio": "audio/926b1e3548ca.mp3"
+      },
+      {
+        "text": "Le soleil se couche tard en été.",
+        "translation": "El sol se pone tarde en verano.",
+        "audio": "audio/2e90b79f1e58.mp3"
       }
     ]
   }

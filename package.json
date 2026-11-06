@@ -1,0 +1,12 @@
+{
+  "name": "practice-temporary",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "images": "node optimize-images.mjs",
+    "sync": "node sync.mjs"
+  },
+  "dependencies": {
+    "sharp": "^0.34.0"
+  }
+}

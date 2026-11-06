@@ -675,6 +675,442 @@
           "translation": "El ratón es gris."
         }
       ]
+    },
+    {
+      "id": "nuit",
+      "word": "la nuit",
+      "translation": "la noche",
+      "gender": "f",
+      "phrases": [
+        {
+          "text": "Bonne nuit !",
+          "translation": "¡Buenas noches!"
+        },
+        {
+          "text": "La nuit, il fait froid.",
+          "translation": "De noche hace frío."
+        },
+        {
+          "text": "Je dors huit heures par nuit.",
+          "translation": "Duermo ocho horas por noche."
+        }
+      ]
+    },
+    {
+      "id": "eau",
+      "word": "l'eau",
+      "translation": "el agua",
+      "gender": "f",
+      "phrases": [
+        {
+          "text": "Je bois un verre d'eau.",
+          "translation": "Bebo un vaso de agua."
+        },
+        {
+          "text": "L'eau est froide.",
+          "translation": "El agua está fría."
+        },
+        {
+          "text": "Tu veux de l'eau ?",
+          "translation": "¿Quieres agua?"
+        }
+      ]
+    },
+    {
+      "id": "assiette",
+      "word": "l'assiette",
+      "translation": "el plato",
+      "gender": "f",
+      "phrases": [
+        {
+          "text": "Il y a une pomme dans l'assiette.",
+          "translation": "Hay una manzana en el plato."
+        },
+        {
+          "text": "L'assiette est sur la table.",
+          "translation": "El plato está sobre la mesa."
+        },
+        {
+          "text": "Passe-moi une assiette, s'il te plaît.",
+          "translation": "Pásame un plato, por favor."
+        }
+      ]
+    },
+    {
+      "id": "verre",
+      "word": "le verre",
+      "translation": "el vaso",
+      "gender": "m",
+      "phrases": [
+        {
+          "text": "Je voudrais un verre de jus.",
+          "translation": "Quisiera un vaso de jugo."
+        },
+        {
+          "text": "Le verre est plein.",
+          "translation": "El vaso está lleno."
+        },
+        {
+          "text": "Attention, le verre est cassé.",
+          "translation": "Cuidado, el vaso está roto."
+        }
+      ]
+    },
+    {
+      "id": "canape",
+      "word": "le canapé",
+      "translation": "el sofá",
+      "gender": "m",
+      "phrases": [
+        {
+          "text": "Nous regardons la télé sur le canapé.",
+          "translation": "Vemos la tele en el sofá."
+        },
+        {
+          "text": "Le canapé est très confortable.",
+          "translation": "El sofá es muy cómodo."
+        }
+      ]
+    },
+    {
+      "id": "televiseur",
+      "word": "le téléviseur",
+      "translation": "el televisor",
+      "gender": "m",
+      "phrases": [
+        {
+          "text": "Le téléviseur est dans le salon.",
+          "translation": "El televisor está en la sala."
+        },
+        {
+          "text": "Éteins le téléviseur, s'il te plaît.",
+          "translation": "Apaga el televisor, por favor."
+        },
+        {
+          "text": "Nous avons un nouveau téléviseur.",
+          "translation": "Tenemos un televisor nuevo."
+        }
+      ]
+    },
+    {
+      "id": "chambre",
+      "word": "la chambre",
+      "translation": "la habitación",
+      "gender": "f",
+      "phrases": [
+        {
+          "text": "Ma chambre est au premier étage.",
+          "translation": "Mi habitación está en el primer piso."
+        },
+        {
+          "text": "Il range sa chambre.",
+          "translation": "Él ordena su habitación."
+        },
+        {
+          "text": "La chambre est petite mais claire.",
+          "translation": "La habitación es pequeña pero luminosa."
+        }
+      ]
+    },
+    {
+      "id": "sol",
+      "word": "le sol",
+      "translation": "el piso",
+      "gender": "m",
+      "phrases": [
+        {
+          "text": "Le sol est propre.",
+          "translation": "El piso está limpio."
+        },
+        {
+          "text": "Il y a un tapis sur le sol.",
+          "translation": "Hay una alfombra en el piso."
+        },
+        {
+          "text": "Le sol de la cuisine est froid.",
+          "translation": "El piso de la cocina está frío."
+        }
+      ]
+    },
+    {
+      "id": "plafond",
+      "word": "le plafond",
+      "translation": "el techo",
+      "gender": "m",
+      "phrases": [
+        {
+          "text": "Il y a une lampe au plafond.",
+          "translation": "Hay una lámpara en el techo."
+        },
+        {
+          "text": "Le plafond est blanc.",
+          "translation": "El techo es blanco."
+        },
+        {
+          "text": "Le plafond est très haut.",
+          "translation": "El techo es muy alto."
+        }
+      ]
+    },
+    {
+      "id": "mur",
+      "word": "le mur",
+      "translation": "la pared",
+      "gender": "m",
+      "phrases": [
+        {
+          "text": "Il y a un tableau sur le mur.",
+          "translation": "Hay un cuadro en la pared."
+        },
+        {
+          "text": "Le mur est blanc.",
+          "translation": "La pared es blanca."
+        },
+        {
+          "text": "Nous peignons le mur en bleu.",
+          "translation": "Pintamos la pared de azul."
+        }
+      ]
+    },
+    {
+      "id": "fenetre",
+      "word": "la fenêtre",
+      "translation": "la ventana",
+      "gender": "f",
+      "phrases": [
+        {
+          "text": "Ouvre la fenêtre, s'il te plaît.",
+          "translation": "Abre la ventana, por favor."
+        },
+        {
+          "text": "Je regarde par la fenêtre.",
+          "translation": "Miro por la ventana."
+        },
+        {
+          "text": "La fenêtre est fermée.",
+          "translation": "La ventana está cerrada."
+        }
+      ]
+    },
+    {
+      "id": "fleur",
+      "word": "la fleur",
+      "translation": "la flor",
+      "gender": "f",
+      "phrases": [
+        {
+          "text": "Elle offre une fleur à sa mère.",
+          "translation": "Ella le regala una flor a su mamá."
+        },
+        {
+          "text": "Cette fleur est rose.",
+          "translation": "Esta flor es rosa."
+        },
+        {
+          "text": "Il y a des fleurs dans le jardin.",
+          "translation": "Hay flores en el jardín."
+        }
+      ]
+    },
+    {
+      "id": "lit",
+      "word": "le lit",
+      "translation": "la cama",
+      "gender": "m",
+      "phrases": [
+        {
+          "text": "Je suis dans mon lit.",
+          "translation": "Estoy en mi cama."
+        },
+        {
+          "text": "Le lit est très confortable.",
+          "translation": "La cama es muy cómoda."
+        },
+        {
+          "text": "Elle fait son lit tous les matins.",
+          "translation": "Ella hace su cama todas las mañanas."
+        }
+      ]
+    },
+    {
+      "id": "crayon",
+      "word": "le crayon",
+      "translation": "el lápiz",
+      "gender": "m",
+      "phrases": [
+        {
+          "text": "Écris avec un crayon.",
+          "translation": "Escribe con un lápiz."
+        },
+        {
+          "text": "J'ai besoin d'un crayon et d'une gomme.",
+          "translation": "Necesito un lápiz y un borrador."
+        },
+        {
+          "text": "Ce crayon est jaune.",
+          "translation": "Este lápiz es amarillo."
+        }
+      ]
+    },
+    {
+      "id": "gomme",
+      "word": "la gomme",
+      "translation": "el borrador",
+      "gender": "f",
+      "phrases": [
+        {
+          "text": "Peux-tu me prêter ta gomme ?",
+          "translation": "¿Me prestas tu borrador?"
+        },
+        {
+          "text": "J'efface avec une gomme.",
+          "translation": "Borro con un borrador."
+        },
+        {
+          "text": "La gomme est dans ma trousse.",
+          "translation": "El borrador está en mi cartuchera."
+        }
+      ]
+    },
+    {
+      "id": "ordinateur",
+      "word": "l'ordinateur",
+      "translation": "el computador",
+      "gender": "m",
+      "phrases": [
+        {
+          "text": "Mon ordinateur est neuf.",
+          "translation": "Mi computador es nuevo."
+        },
+        {
+          "text": "Elle travaille sur son ordinateur.",
+          "translation": "Ella trabaja en su computador."
+        },
+        {
+          "text": "J'éteins l'ordinateur.",
+          "translation": "Apago el computador."
+        }
+      ]
+    },
+    {
+      "id": "cle",
+      "word": "la clé",
+      "translation": "la llave",
+      "gender": "f",
+      "phrases": [
+        {
+          "text": "Où est ma clé ?",
+          "translation": "¿Dónde está mi llave?"
+        },
+        {
+          "text": "J'ai oublié la clé de la maison.",
+          "translation": "Olvidé la llave de la casa."
+        },
+        {
+          "text": "Il ferme la porte à clé.",
+          "translation": "Él cierra la puerta con llave."
+        }
+      ]
+    },
+    {
+      "id": "argent",
+      "word": "l'argent",
+      "translation": "la plata",
+      "gender": "m",
+      "phrases": [
+        {
+          "text": "Je n'ai pas d'argent.",
+          "translation": "No tengo plata."
+        },
+        {
+          "text": "Cette bague est en argent.",
+          "translation": "Este anillo es de plata."
+        },
+        {
+          "text": "Il gagne de l'argent.",
+          "translation": "Él gana plata."
+        }
+      ]
+    },
+    {
+      "id": "telephone-portable",
+      "word": "le téléphone portable",
+      "translation": "el celular",
+      "gender": "m",
+      "phrases": [
+        {
+          "text": "Mon téléphone portable est sur la table.",
+          "translation": "Mi celular está sobre la mesa."
+        },
+        {
+          "text": "Elle utilise son téléphone portable.",
+          "translation": "Ella usa su celular."
+        },
+        {
+          "text": "Éteignez vos téléphones portables.",
+          "translation": "Apaguen sus celulares."
+        }
+      ]
+    },
+    {
+      "id": "pluie",
+      "word": "la pluie",
+      "translation": "la lluvia",
+      "gender": "f",
+      "phrases": [
+        {
+          "text": "Il y a de la pluie aujourd'hui.",
+          "translation": "Hoy hay lluvia."
+        },
+        {
+          "text": "J'aime le bruit de la pluie.",
+          "translation": "Me gusta el ruido de la lluvia."
+        },
+        {
+          "text": "La pluie tombe depuis ce matin.",
+          "translation": "La lluvia cae desde esta mañana."
+        }
+      ]
+    },
+    {
+      "id": "parapluie",
+      "word": "le parapluie",
+      "translation": "la sombrilla",
+      "gender": "m",
+      "phrases": [
+        {
+          "text": "Prends ton parapluie, il pleut.",
+          "translation": "Toma tu sombrilla, está lloviendo."
+        },
+        {
+          "text": "J'ai oublié mon parapluie.",
+          "translation": "Olvidé mi sombrilla."
+        },
+        {
+          "text": "Le parapluie est rouge.",
+          "translation": "La sombrilla es roja."
+        }
+      ]
+    },
+    {
+      "id": "soleil",
+      "word": "le soleil",
+      "translation": "el sol",
+      "gender": "m",
+      "phrases": [
+        {
+          "text": "Le soleil brille aujourd'hui.",
+          "translation": "El sol brilla hoy."
+        },
+        {
+          "text": "Mets tes lunettes de soleil.",
+          "translation": "Ponte tus gafas de sol."
+        },
+        {
+          "text": "Le soleil se couche tard en été.",
+          "translation": "El sol se pone tarde en verano."
+        }
+      ]
     }
   ]
 }
